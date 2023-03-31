@@ -1,6 +1,5 @@
 # ignore all logs
 .logs
 # ignore folder temporary
-#tmp/
 # ignore all virtual environment
 .vwin/
